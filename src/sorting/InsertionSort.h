@@ -1,10 +1,3 @@
-/*
- * InsertionSort.h
- *
- *  Created on: 23 kwi 2024
- *      Author: piotr
- */
-
 #ifndef SORTING_INSERTIONSORT_H_
 #define SORTING_INSERTIONSORT_H_
 
@@ -15,4 +8,4 @@ public:
 	void sort();
 };
 
-#endif /* SORTING_INSERTIONSORT_H_ */
+#endif
